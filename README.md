@@ -1,11 +1,9 @@
-# Auxillium.github.io
-
-Auxillium - Online Shopping Website
-PURPOSE
+# Auxillium - Online Shopping Website
+### PURPOSE 
 
 The purpose of creating the website is to ensure that a user-friendly website is designed, with the functionalities required for an online shopping site. The target market of the website are individuals who need computer devices, including laptops, chargers etc. The main functionalities of the website include Customers and Sellers/Admins view, customers can buy devices, transactions being processed by credit cards. The Admin/Seller can control the transactions on their branches, add/delete products on their website, and view their inventory.
 
-BACKGROUND
+### BACKGROUND
 
 Auxilium is a computer devices company developing an online shopping platform to sell its devices. The company has several branches, some branches sell similar goods while others sell different goods. Testing, Security, Domains, and applications and development procedures will need to be considered for the online shopping platform.
 
